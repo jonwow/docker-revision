@@ -1,0 +1,20 @@
+{
+  "name": "docker-revision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwow/docker-revision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonwow/docker-revision/issues"
+  },
+  "homepage": "https://github.com/jonwow/docker-revision#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
