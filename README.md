@@ -1,7 +1,6 @@
 # docker-revision
 
-Docker can be used to package software so it would run on any hardware. For example, it might work on my machine but if another user has a different version of node and/or other hardware, it may break without docker.
-
+**Docker can be used to package software so it would run on any hardware. For example, it might work on my machine but if another user has a different version of node and/or other hardware, it may break without docker.**
 
 Dockerfile is a blueprint to build the docker image.
 
@@ -15,9 +14,9 @@ Docker compose - multiple containers at the same time.
 
 
 
-Useful:
-    Docker VSCode extension
-    docker ps (running containers)
-    docker build -t jonwow/node-app:1.0 .
-    port forwarding: docker run -p 5000:8080 {image sha}
-    docker volume create shared-data
+**Useful**:
+* Docker VSCode extension
+* docker ps (running containers)
+* docker build -t jonwow/node-app:1.0 .
+* port forwarding: docker run -p 5000:8080 {image sha}
+* docker volume create shared-data
